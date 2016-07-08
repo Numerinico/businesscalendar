@@ -1,6 +1,6 @@
 {
   "name": "Business Calendar",
   "tagline": "Java Business Calendar",
-  "body": "# Business Calendar\r\n\r\nBusiness Calendar is a Java package adding business time management to Java8.\r\nMain functionality is to get the elapsed time between two dates for a given business calendar.\r\n\r\nThis package also provides an object to load business calendar configuration from a configuration file (including typical week and holidays).\r\n\r\nBuild on Maven, may come soon to Maven repo.\r\n\r\nDone during my intern at Capgemini.",
+  "body": "# Business Calendar\r\n\r\nBusiness Calendar is a Java package adding business time management to Java 8.\r\nMain functionality is to get the elapsed time between two dates for a given business calendar.\r\n\r\nThis package also provides an object to load business calendar configuration from a configuration file (including typical week and holidays).\r\n\r\nBuild on Maven, may come soon to Maven central repository.\r\n\r\nDone during my internship at Capgemini Montbonnot (France).",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
